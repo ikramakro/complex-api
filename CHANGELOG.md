@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2022-02-15: refactor(auth): fix pagination offset
 - 2021-12-09: Handle empty state
 - 2021-05-18: Add input sanitization
 - 2023-01-23: chore(auth): fix memory leak in worker
